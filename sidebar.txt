@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kle:home|Door43 (kle)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kle|d43-kle repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kle/archive/master.zip|d43-kle.zip]]
+
+**Recent Changes**
+{{changes>ns = kle}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kle|Ethnologue data]]
+
